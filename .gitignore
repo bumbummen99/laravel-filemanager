@@ -1,4 +1,26 @@
-/vendor
+### Composer ###
+/vendor/
 composer.lock
+
+### Documentation ###
 /docs/Gemfile.lock
 /docs/_site
+
+### IDE ###
+# VisualStudioCode
+/.vscode/
+
+### OSX ###
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+### Windows ###
+# Windows thumbnail cache files
+Thumbs.db
+ehthumbs.db
+ehthumbs_vista.db
+
+# Folder config file
+[Dd]esktop.ini
