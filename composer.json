@@ -1,5 +1,5 @@
 {
-  "name": "unisharp/laravel-filemanager",
+  "name": "skyraptor/laravel-filemanager",
   "description": "A file upload/editor intended for use with Laravel 5 and CKEditor / TinyMCE",
   "license": "MIT",
   "keywords": [
@@ -13,6 +13,10 @@
     "image"
   ],
   "authors": [
+    {
+      "name": "Patrick Henninger",
+      "email": "privat@skyraptor.eu"
+    },
     {
       "name": "Trevor Sawler",
       "email": "trevor.sawler@gmail.com"
