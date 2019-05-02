@@ -16,6 +16,11 @@ return [
      */
 
     'use_package_routes'       => true,
+    'url_prefix' => 'laravel-filemanager',
+    'middlewares' => [
+        'web',
+        'auth'
+    ],
 
     // // Use relative paths (without domain)
     // 'relative_paths'           => false,
