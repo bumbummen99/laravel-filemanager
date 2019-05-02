@@ -7,7 +7,7 @@ class TestCase extends \Orchestra\Testbench\TestCase
     public function getPackageProviders($app)
     {
         return [
-            'Unisharp\Laravelfilemanager\LaravelFilemanagerServiceProvider',
+            'Unisharp\LaravelFilemanager\LaravelFilemanagerServiceProvider',
             'Unisharp\FileApi\FileApiServiceProvider',
         ];
     }
